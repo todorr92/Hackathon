@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+.img-responsive {
+    height: 2em;
+    width: 2em;
+}
