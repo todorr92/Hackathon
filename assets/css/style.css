@@ -1,3 +1,15 @@
+/*SOCIAL LINKS*/
+
+.social-links {
+    text-align: center;
+}
+.social-links li {
+    display: inline;
+    font-size: 50px;
+} 
+.social-links li a i {
+    padding: 0 10px;
+}
 
 
 
